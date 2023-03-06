@@ -1,11 +1,4 @@
-/*
- * This ESP32 code is created by esp32io.com
- *
- * This ESP32 code is released in the public domain
- *
- * For more detail (instruction and wiring diagram), visit https://esp32io.com/tutorials/esp32-joystick
- */
-
+//Cesar Alejandro Ordoñez Osorio
 #define VRX_PIN  36 // ESP32 pin GIOP36 (ADC0) connected to VRX pin
 #define VRY_PIN  39 // ESP32 pin GIOP39 (ADC0) connected to VRY pin
 
